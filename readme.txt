@@ -1,4 +1,4 @@
---Readme document for *YOUR NAME*, *YOUR_EMAIL@uci.edu*--
+--Readme document for *test_my_name*, *test_my_email*--
 
 A reminder on academic integrity, as described in the syllabus.
 
