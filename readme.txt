@@ -1,4 +1,4 @@
---Readme document for *test_my_name*, *test_my_email*--
+--Readme document for Keira Wong, keiralw@uci.edu--
 
 A reminder on academic integrity, as described in the syllabus.
 
