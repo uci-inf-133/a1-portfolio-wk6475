@@ -41,7 +41,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 - Nav Bar: I placed a static nav bar at the top of the site on all pages.
 - Email Form: I used a email form on my contact page that allows the user to draft an email to me.
-
+- Embedded video with fallbacks: I integrated 2 embedded videos in my blog page. There is text displaying an error message if the video doesn't play in the user's browser.
 
 
 3. Did you ignore any of the warnings or errors presented by the accessibility checker? If so, why does this not seem like an accessibility concern? If it's useful, you can consolidate your thoughts on multiple warnings/errors if the rationale is similar.
