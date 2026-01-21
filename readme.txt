@@ -12,7 +12,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 10/10
 - 1/1 Readme
-- 1/2 Basic HTML content
+- 2/2 Basic HTML content
 - 1/1 Basic CSS styling
 - 1/1 Advanced feature
 - 2/2 Responsive layout
@@ -47,7 +47,6 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 3. Did you ignore any of the warnings or errors presented by the accessibility checker? If so, why does this not seem like an accessibility concern? If it's useful, you can consolidate your thoughts on multiple warnings/errors if the rationale is similar.
 
 - I did not ignore any of the warnings or errors from the accessibility checker. I believed its insight helped better my site and made it more readable.
-
 
 4. How long, in hours, did it take you to complete this assignment?
 
