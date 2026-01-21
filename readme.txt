@@ -23,24 +23,31 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 (a) Basic features
 
-- I included a basic index.html homepage that has links to other pages like my contact, resume, and blog pages.
+- Image: I have several images on my blog page with alt text.
+- Headings: I have headings (h1-h3) throughout my site to help users navigate the site. There are also paragraphs for more information on header info.
+- External Links: I have links to unlisted YouTube videos on my blog page that redirect the user.
+- Multiple pages: I have multiple pages: my home, contact, resume, and blog pages.
+- Semantic HTML Tag: I have a footer tag on each page.
+- Custom Fonts: I used the custom font 'Lora' from Google Fonts as my custom font.
 
 (b) CSS features
 
-- I leveraged Bootstrap technologies to enhance my blog page. On a desktop/wide screen, there are 2 images next to each other. However, on a phone/narrower display, the images become stacked, allowing for easier scrolling.
-- I used general CSS rules to customize text in my headers, navigation bar, and lists. 
-- I also customized the colors of my page and aligned text to be aesthetially pleasing.
-- I also used CSS to target image size in addition to Bootstrap's features.
+- Padding/Margins: I used padding and margins on my nav bar and throughout my pages so that the content did not go all the way to the edges.
+- Modifying links/text color/etc: I customized links to be dark blue and the nav bar to be grey to see it better.
+- Bootstrap: I used features of Boostrap to help with blog layout and general screen adaptability. 
+- Custom Fonts: I used 'Lora' from Google Fonts to customize text.
 
 (c) Advanced features
 
-- I embedded some images into my blog page with alt text. 
-- I also embedded a navigation bar at the top of my page.
+- Nav Bar: I placed a static nav bar at the top of the site on all pages.
+- Email Form: I used a email form on my contact page that allows the user to draft an email to me.
+
 
 
 3. Did you ignore any of the warnings or errors presented by the accessibility checker? If so, why does this not seem like an accessibility concern? If it's useful, you can consolidate your thoughts on multiple warnings/errors if the rationale is similar.
 
 - I did not ignore any of the warnings or errors from the accessibility checker. I believed its insight helped better my site and made it more readable.
+
 
 4. How long, in hours, did it take you to complete this assignment?
 
@@ -50,11 +57,11 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 - I consulted W3 schools heavily for basic HTML/CSS features and tips, especially with integrating custom fonts from Google Fonts.
 - I also used a lot of Stack Overflow towards the end for confusion on zipping files in VS Code.
-- I used ChatGPT as a brainstorming tool at the very beginning and as a time estimation tool for completing the assignment. It mainly gave me a birdseye view of how to approach creaeting a website, as this was my first time doing so.
+- I used ChatGPT as a brainstorming tool at the very beginning and as a time estimation tool for completing the assignment. It mainly gave me a birdseye view of how to approach creating a website, as this was my first time doing so.
 
 6. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 
-- I personally did not consult other individuals in the class as part of the assignment. 
+- I personally did not consult other individuals in the class as part of the assignment.
 
 7. Is there anything special we need to know in order to run your code?
 
